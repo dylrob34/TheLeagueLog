@@ -21,7 +21,7 @@ body = "bradys feeding again :/"
 
 headers = {
     "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
-    "X-Riot-Token": "RGAPI-effc7286-46e4-4f2f-9b2c-8c00b9838e20",
+    "X-Riot-Token": "hide the token lul",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
