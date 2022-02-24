@@ -8,7 +8,7 @@ getNameOfChamp = "http://ddragon.leagueoflegends.com/cdn/10.6.1/data/en_US/champ
 
 headers = {
     "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
-    "X-Riot-Token": "RGAPI-effc7286-46e4-4f2f-9b2c-8c00b9838e20",
+    "X-Riot-Token": "",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
