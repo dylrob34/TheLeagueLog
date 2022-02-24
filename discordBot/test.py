@@ -2,7 +2,7 @@ import mysql.connector as sql
 
 print("Hello World!")
 
-connection = sql.connect(user="leaguelog", password="theleaguelog", host="24.228.154.163", database="theleaguelog")
+connection = sql.connect(user="leaguelog", password="theleaguelog", host="10.0.0.4", port="3307", database="theleaguelog")
 
 print("connected to server")
 
