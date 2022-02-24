@@ -7,7 +7,7 @@ matchURL = "https://na1.api.riotgames.com/lol/match/v4/matches/"
 
 headers = {
     "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
-    "X-Riot-Token": "RGAPI-af880f5d-50e1-4544-ac8c-d8a511130d96",
+    "X-Riot-Token": "",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
